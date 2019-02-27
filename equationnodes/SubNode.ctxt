@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SubNode()
+comment0.text=
+comment1.params=leftchild\ rightchild
+comment1.target=SubNode(EquationNode,\ EquationNode)
+comment1.text=
+comment2.params=
+comment2.target=double\ getValue()
+comment2.text=
+comment3.params=
+comment3.target=int\ getPriority()
+comment3.text=
+numComments=4

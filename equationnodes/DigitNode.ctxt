@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=DigitNode(double)
+comment0.text=
+comment1.params=
+comment1.target=int\ getPriority()
+comment1.text=
+comment2.params=
+comment2.target=double\ getValue()
+comment2.text=
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=
+comment4.params=
+comment4.target=int\ numChildren()
+comment4.text=
+numComments=5

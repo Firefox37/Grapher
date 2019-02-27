@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=_child
+comment0.target=void\ setChild(EquationNode)
+comment0.text=
+comment1.params=
+comment1.target=int\ numChildren()
+comment1.text=
+comment2.params=
+comment2.target=EquationNode\ getChild()
+comment2.text=
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=
+numComments=4

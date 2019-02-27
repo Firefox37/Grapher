@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BinOpNode()
+comment0.text=
+comment1.params=_lsib
+comment1.target=void\ setLChild(EquationNode)
+comment1.text=
+comment2.params=_rsib
+comment2.target=void\ setRChild(EquationNode)
+comment2.text=
+comment3.params=
+comment3.target=EquationNode\ getLChild()
+comment3.text=
+comment4.params=
+comment4.target=EquationNode\ getRChild()
+comment4.text=
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=
+comment6.params=
+comment6.target=int\ numChildren()
+comment6.text=
+numComments=7

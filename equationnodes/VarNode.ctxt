@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=_name
+comment0.target=VarNode(java.lang.String)
+comment0.text=
+comment1.params=_name\ value
+comment1.target=VarNode(java.lang.String,\ double)
+comment1.text=
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=
+comment3.params=value
+comment3.target=void\ setValue(double)
+comment3.text=
+comment4.params=
+comment4.target=int\ getPriority()
+comment4.text=
+comment5.params=
+comment5.target=double\ getValue()
+comment5.text=
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=
+comment7.params=
+comment7.target=int\ numChildren()
+comment7.text=
+numComments=8

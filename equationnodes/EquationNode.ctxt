@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getType()
+comment0.text=
+comment1.params=
+comment1.target=double\ getValue()
+comment1.text=
+comment2.params=
+comment2.target=int\ getPriority()
+comment2.text=
+comment3.params=
+comment3.target=int\ numChildren()
+comment3.text=
+numComments=4

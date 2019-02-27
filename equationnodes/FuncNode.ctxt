@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=func\ rad
+comment0.target=FuncNode(java.lang.String,\ boolean)
+comment0.text=
+comment1.params=
+comment1.target=double\ getValue()
+comment1.text=
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=
+comment3.params=
+comment3.target=int\ getPriority()
+comment3.text=
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=_name
+comment0.target=BiFuncNode(java.lang.String)
+comment0.text=
+comment1.params=_name\ leftchild\ rightchild
+comment1.target=BiFuncNode(java.lang.String,\ EquationNode,\ EquationNode)
+comment1.text=
+comment2.params=
+comment2.target=double\ getValue()
+comment2.text=
+comment3.params=x
+comment3.target=double\ factorial(double)
+comment3.text=
+comment4.params=
+comment4.target=int\ getPriority()
+comment4.text=
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=
+numComments=6
